@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maycol064
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning JavaScript and C++ ...
+- 🌱 I’m currently learning JavaScript ...
 
 <!---
 maycol064/maycol064 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
